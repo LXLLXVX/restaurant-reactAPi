@@ -1,16 +1,37 @@
-# React + Vite
+# 🍽️ Menú de Restaurante (React + TheMealDB)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0ab274da-c763-435a-9bf5-172a697fedda" />
 
-Currently, two official plugins are available:
+Proyecto desarrollado con **React** y **Vite**, que consume la API pública [TheMealDB](https://www.themealdb.com) para mostrar un menú de restaurante con platos, categorías y detalles individuales.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Incluye navegación dinámica con `react-router-dom`, manejo de estados y efectos (`useState`, `useEffect`) y un diseño responsive con CSS moderno.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Funcionalidades principales
 
-## Expanding the ESLint configuration
+- 🔹 Listado general de platos obtenidos desde la API  
+- 🔹 Navegación por **categorías**  
+- 🔹 Página de **detalle de cada plato**  
+- 🔹 Manejo de estados de **carga (loading)** y **errores**  
+- 🔹 Precios generados aleatoriamente para simular un menú real  
+- 🔹 Diseño adaptable a móviles  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- **React 18**
+- **Vite**
+- **React Router DOM**
+- **Fetch API**
+- **CSS nativo**
+
+---
+
+## ⚙️ Instalación y ejecución
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/TU_USUARIO/restaurante-react.git
+   cd restaurante-react
