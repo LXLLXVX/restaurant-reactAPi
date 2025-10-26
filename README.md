@@ -1,4 +1,4 @@
-# 🍽️ Menú de Restaurante (React + TheMealDB)
+# Menú de Restaurante (React + TheMealDB)
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0ab274da-c763-435a-9bf5-172a697fedda" />
 
@@ -8,7 +8,7 @@ Incluye navegación dinámica con `react-router-dom`, manejo de estados y efecto
 
 ---
 
-## 🚀 Funcionalidades principales
+## Funcionalidades principales
 
 - 🔹 Listado general de platos obtenidos desde la API  
 - 🔹 Navegación por **categorías**  
@@ -19,7 +19,7 @@ Incluye navegación dinámica con `react-router-dom`, manejo de estados y efecto
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **React 18**
 - **Vite**
